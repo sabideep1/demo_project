@@ -1,0 +1,28 @@
+Owner: CN=WMSvc-CRVZ001WEBPROD
+Issuer: CN=WMSvc-CRVZ001WEBPROD
+Serial number: 2b7a4dd3e80c1fa84051d881f6c57c27
+Valid from: Sat Oct 03 10:30:44 CDT 2015 until: Tue Sep 30 10:30:44 CDT 2025
+Certificate fingerprints:
+	 MD5:  E2:1D:AC:5F:BC:2B:8E:6E:46:C7:05:EF:E8:95:D3:3C
+	 SHA1: 83:55:C3:2F:20:36:8D:A6:D3:5E:AE:59:C9:FD:5A:BB:08:05:D6:58
+	 SHA256: FC:FC:16:F1:B8:C9:C5:DA:AB:CB:79:84:C5:4A:80:6C:13:BA:91:57:70:E9:59:B2:9B:AD:F3:99:36:24:24:1C
+	 Signature algorithm name: SHA1withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+]
+
+#2: ObjectId: 2.5.29.15 Criticality=false
+KeyUsage 
+[
+  DigitalSignature
+  Key_Encipherment
+  Data_Encipherment
+]
+
+
+tis is the second commit
